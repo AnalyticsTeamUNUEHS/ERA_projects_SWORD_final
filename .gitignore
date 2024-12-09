@@ -1,0 +1,48 @@
+# data & temp(exposures, hazards, reports)
+data/exposures
+data/reports
+data/temp
+data/unu
+climada_unu.db
+src/temp
+gadm41_EGY.gpkg
+gadm41_THA.gpkg
+gadm0_THA.geojson
+gadm1_THA.geojson
+gadm2_THA.geojson
+gadm0_EGY.geojson
+gadm1_EGY.geojson
+gadm2_EGY.geojson
+
+# frontend
+node_modules
+build
+dist
+
+# backend
+__pycache_
+
+# logs
+logs/
+
+# environment
+climada_env
+
+# python
+*.pyc
+__pycache_
+
+# database
+*.sqlite3
+*.db
+
+# documentation
+docs/_build
+
+# development
+test
+test.ipynb
+changelog_generator.py
+translations.xlsx
+translation_validation.log
+translations.py
